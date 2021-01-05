@@ -3,6 +3,6 @@
 ## Complejidad
 - N = 
 ## Entrada
-![Entrada](Entrada.png)
+![Entrada](Entrada.PNG)
 ## Salida
-![Salida](salida.png)
+![Salida](salida.PNG)
