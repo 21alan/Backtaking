@@ -1,7 +1,7 @@
 # Solución de laberinto con BackTracking
 
-## Complejidad
-- N = 
+## Complejidad de la función resolver 
+- N = 1+9
 ## Entrada
 ![Entrada](Entrada.PNG)
 ## Salida
